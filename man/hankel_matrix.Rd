@@ -4,10 +4,10 @@
 \alias{hankel_matrix}
 \title{Transform a vector/univariate time series in an hankel matrix}
 \usage{
-hankel_matrix(x, L)
+hankel_matrix(y, L)
 }
 \arguments{
-\item{x}{A vector or a time series}
+\item{y}{A vector or a time series}
 
 \item{L}{A number.}
 }
@@ -18,7 +18,7 @@ An hankel matrix.
 Transform a vector/univariate time series in an hankel matrix
 }
 \examples{
-x <- datasets::AirPassengers
+y <- datasets::AirPassengers
 L <- 12
-hankel_matrix(x, L)
+hankel_matrix(y, L)
 }
