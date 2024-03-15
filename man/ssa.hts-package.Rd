@@ -12,6 +12,7 @@ The singular spectrum analysis will be used to create an extra hierarchy to impr
 Useful links:
 \itemize{
   \item \url{https://github.com/numbats/assignment-1-package-creation-paulocanas}
+  \item \url{https://paulocanas.github.io/ssa.hts/}
   \item Report bugs at \url{https://github.com/numbats/assignment-1-package-creation-paulocanas/issues}
 }
 

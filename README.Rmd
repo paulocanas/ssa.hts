@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of ssa.hts is to use singular spectrum analysis to forecast hierarchical time series.
+The goal of the ssa.hts package is to use singular spectrum analysis to forecast hierarchical time series.
 
 ## Installation
 
@@ -34,7 +34,7 @@ devtools::install_github("numbats/assignment-1-package-creation-paulocanas")
 This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
-library(ssa.hts)
+#library(ssa.hts)
 ## basic example code
 x <- datasets::AirPassengers[1:15]
 L <- 8

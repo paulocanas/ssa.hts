@@ -6,8 +6,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of ssa.hts is to use singular spectrum analysis to forecast
-hierarchical time series.
+The goal of the ssa.hts package is to use singular spectrum analysis to
+forecast hierarchical time series...
 
 ## Installation
 
@@ -28,16 +28,6 @@ library(ssa.hts)
 ## basic example code
 x <- datasets::AirPassengers[1:15]
 L <- 8
-ssa.hts::hankel_matrix(x, L)
-#>      [,1] [,2] [,3] [,4] [,5] [,6] [,7] [,8]
-#> [1,]  112  118  132  129  121  135  148  148
-#> [2,]  118  132  129  121  135  148  148  136
-#> [3,]  132  129  121  135  148  148  136  119
-#> [4,]  129  121  135  148  148  136  119  104
-#> [5,]  121  135  148  148  136  119  104  118
-#> [6,]  135  148  148  136  119  104  118  115
-#> [7,]  148  148  136  119  104  118  115  126
-#> [8,]  148  136  119  104  118  115  126  141
 ```
 
 What is special about using `README.Rmd` instead of just `README.md`?
