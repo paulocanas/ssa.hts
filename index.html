@@ -65,7 +65,7 @@
 </h1></div>
 <!-- badges: start -->
 <!-- badges: end -->
-<p>The goal of ssa.hts is to use singular spectrum analysis to forecast hierarchical time series.</p>
+<p>The goal of the ssa.hts package is to use singular spectrum analysis to forecast hierarchical time series…</p>
 <div class="section level2">
 <h2 id="installation">Installation<a class="anchor" aria-label="anchor" href="#installation"></a>
 </h2>
@@ -82,17 +82,7 @@
 <code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://github.com/numbats/assignment-1-package-creation-paulocanas" class="external-link">ssa.hts</a></span><span class="op">)</span></span>
 <span><span class="co">## basic example code</span></span>
 <span><span class="va">x</span> <span class="op">&lt;-</span> <span class="fu">datasets</span><span class="fu">::</span><span class="va"><a href="https://rdrr.io/r/datasets/AirPassengers.html" class="external-link">AirPassengers</a></span><span class="op">[</span><span class="fl">1</span><span class="op">:</span><span class="fl">15</span><span class="op">]</span></span>
-<span><span class="va">L</span> <span class="op">&lt;-</span> <span class="fl">8</span></span>
-<span><span class="fu">ssa.hts</span><span class="fu">::</span><span class="fu"><a href="reference/hankel_matrix.html">hankel_matrix</a></span><span class="op">(</span><span class="va">x</span>, <span class="va">L</span><span class="op">)</span></span>
-<span><span class="co">#&gt;      [,1] [,2] [,3] [,4] [,5] [,6] [,7] [,8]</span></span>
-<span><span class="co">#&gt; [1,]  112  118  132  129  121  135  148  148</span></span>
-<span><span class="co">#&gt; [2,]  118  132  129  121  135  148  148  136</span></span>
-<span><span class="co">#&gt; [3,]  132  129  121  135  148  148  136  119</span></span>
-<span><span class="co">#&gt; [4,]  129  121  135  148  148  136  119  104</span></span>
-<span><span class="co">#&gt; [5,]  121  135  148  148  136  119  104  118</span></span>
-<span><span class="co">#&gt; [6,]  135  148  148  136  119  104  118  115</span></span>
-<span><span class="co">#&gt; [7,]  148  148  136  119  104  118  115  126</span></span>
-<span><span class="co">#&gt; [8,]  148  136  119  104  118  115  126  141</span></span></code></pre></div>
+<span><span class="va">L</span> <span class="op">&lt;-</span> <span class="fl">8</span></span></code></pre></div>
 <p>What is special about using <code>README.Rmd</code> instead of just <code>README.md</code>? You can include R chunks like so:</p>
 <div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/base/summary.html" class="external-link">summary</a></span><span class="op">(</span><span class="va">cars</span><span class="op">)</span></span>

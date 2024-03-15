@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/404.html</loc>
+    <loc>https://github.com/paulocanas/ssa.hts/404.html</loc>
   </url>
   <url>
-    <loc>/LICENSE.html</loc>
+    <loc>https://github.com/paulocanas/ssa.hts/LICENSE.html</loc>
   </url>
   <url>
-    <loc>/authors.html</loc>
+    <loc>https://github.com/paulocanas/ssa.hts/authors.html</loc>
   </url>
   <url>
-    <loc>/index.html</loc>
+    <loc>https://github.com/paulocanas/ssa.hts/index.html</loc>
   </url>
   <url>
-    <loc>/news/index.html</loc>
+    <loc>https://github.com/paulocanas/ssa.hts/news/index.html</loc>
   </url>
   <url>
-    <loc>/reference/hankel_matrix.html</loc>
+    <loc>https://github.com/paulocanas/ssa.hts/reference/hankel_matrix.html</loc>
   </url>
   <url>
-    <loc>/reference/index.html</loc>
+    <loc>https://github.com/paulocanas/ssa.hts/reference/index.html</loc>
   </url>
   <url>
-    <loc>/reference/ssa.hts-package.html</loc>
+    <loc>https://github.com/paulocanas/ssa.hts/reference/ssa.hts-package.html</loc>
   </url>
 </urlset>
