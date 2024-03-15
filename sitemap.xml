@@ -1,27 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/paulocanas/ssa.hts/404.html</loc>
+    <loc>https://paulocanas.github.io/ssa.hts/404.html</loc>
   </url>
   <url>
-    <loc>https://github.com/paulocanas/ssa.hts/LICENSE.html</loc>
+    <loc>https://paulocanas.github.io/ssa.hts/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://github.com/paulocanas/ssa.hts/authors.html</loc>
+    <loc>https://paulocanas.github.io/ssa.hts/authors.html</loc>
   </url>
   <url>
-    <loc>https://github.com/paulocanas/ssa.hts/index.html</loc>
+    <loc>https://paulocanas.github.io/ssa.hts/index.html</loc>
   </url>
   <url>
-    <loc>https://github.com/paulocanas/ssa.hts/news/index.html</loc>
+    <loc>https://paulocanas.github.io/ssa.hts/news/index.html</loc>
   </url>
   <url>
-    <loc>https://github.com/paulocanas/ssa.hts/reference/hankel_matrix.html</loc>
+    <loc>https://paulocanas.github.io/ssa.hts/reference/DiagAver.html</loc>
   </url>
   <url>
-    <loc>https://github.com/paulocanas/ssa.hts/reference/index.html</loc>
+    <loc>https://paulocanas.github.io/ssa.hts/reference/Group.html</loc>
   </url>
   <url>
-    <loc>https://github.com/paulocanas/ssa.hts/reference/ssa.hts-package.html</loc>
+    <loc>https://paulocanas.github.io/ssa.hts/reference/SVD.html</loc>
+  </url>
+  <url>
+    <loc>https://paulocanas.github.io/ssa.hts/reference/UniHankel.html</loc>
+  </url>
+  <url>
+    <loc>https://paulocanas.github.io/ssa.hts/reference/hankel_matrix.html</loc>
+  </url>
+  <url>
+    <loc>https://paulocanas.github.io/ssa.hts/reference/hankel_vector.html</loc>
+  </url>
+  <url>
+    <loc>https://paulocanas.github.io/ssa.hts/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://paulocanas.github.io/ssa.hts/reference/ssa.html</loc>
+  </url>
+  <url>
+    <loc>https://paulocanas.github.io/ssa.hts/reference/ssa.hts-package.html</loc>
   </url>
 </urlset>
