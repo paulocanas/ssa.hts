@@ -26,7 +26,7 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(ssa.hts)
 ## basic example code
-x <- AirPassengers[1:15]
+x <- datasets::AirPassengers[1:15]
 L <- 8
 ssa.hts::hankel_matrix(x, L)
 #>      [,1] [,2] [,3] [,4] [,5] [,6] [,7] [,8]
